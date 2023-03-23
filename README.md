@@ -2,7 +2,7 @@
 Problem Set Solutions for COSI21A
 
 
-This is a solution for Brandeis COSI21A PA1, about initializing an MBTA red line. Specific requirement can be read in PA1.pdf.
+This is a solution for COSI21A PA1, about initializing an MBTA red line. Specific requirement can be read in PA1.pdf.
 
 
 The grade of this solution is 94, TA's feedback is as followed:
